@@ -1,5 +1,7 @@
 ### Hi there I'm Adithya Saranga👋
+
 HND in IT at SLIIT
+
 Undergraduate at London Metropoliton University
 
 
