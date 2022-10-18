@@ -1,7 +1,7 @@
 ### Hi there I'm Adithya Saranga👋
-I'm an undergraduate at SLIIT
+HND in IT at SLIIT
+Undergraduate at London Metropoliton University
 
-Student ID : 20009168
 
 <!--
 **adithyas2000/adithyas2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
