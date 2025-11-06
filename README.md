@@ -1,9 +1,8 @@
 ### Hi there I'm Adithya Saranga👋
 
 HND in IT at SLIIT
-
 Undergraduate at London Metropoliton University
-
+SE @ [Apium](apium.io)
 
 <!--
 **adithyas2000/adithyas2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
